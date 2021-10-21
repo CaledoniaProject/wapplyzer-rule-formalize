@@ -1,6 +1,6 @@
 # Introduction
 
-Formalize wapplyzer rules for easier golang intergration: https://github.com/AliasIO/wappalyzer/blob/master/README.md
+Formalize wapplyzer rules for easier golang intergration, requires python 3.9+ to run: https://github.com/AliasIO/wappalyzer/blob/master/README.md
 
 # Usage
 
